@@ -53,6 +53,6 @@ GitHub是为了解决复杂项目和小组写作而生的一家公司/软件。G
 [git简明指南][id]
 
 [id]: http://rogerdudler.github.io/git-guide/index.zh.html
-进阶：[如何高效利用GitHub][id]
+进阶：[如何高效利用GitHub][id2]
 
-[id]:http://www.yangzhiping.com/tech/github.html
+[id2]:http://www.yangzhiping.com/tech/github.html
